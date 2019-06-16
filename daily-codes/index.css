@@ -1,0 +1,14 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: stretch;
+}
+
+
+    
+    
+    
+
+
